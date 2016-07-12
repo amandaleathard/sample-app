@@ -1,5 +1,6 @@
 # sample-app
-
-Hello world, sample app and my second branch
-
-Attempting 3rd branch - edit2
+Testing push branches and commit
+# sample-only
+This is a sample edit file
+#hello world
+Testing 1234
